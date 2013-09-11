@@ -2,7 +2,6 @@
 
 [Website] — [Linked-In] 
 
-## Vocational Status ##
 My vocation is that of educator, incorporating writing and peripatetic teaching. 
 
 ### Maize Plant Discipleship ###
@@ -15,11 +14,11 @@ I am currently engaged in the development of the following resource, which is de
 
 MPD was developed in parallel with doctoral research, undertaken in partnership with Fuller Theological Seminary, which lead to my dissertation:	*Facilitating a Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*
 
-## Vocational Philosophy ##
+### Vocational Philosophy ###
 
 My intercultural work forms part of a broad vocation that has encompassed structural engineering, desktop publishing, printing, website development and property management. Together these involvements have facilitated the development of key business and leadership skills and experience, the defining of a vocational philosophy of Christian work and the financial underwriting of itinerant missionary engagement with Africa.
 
-For further information, visit my [Website][] or [Linked-In][] profile.
+*For further information, visit my [Website][] or [Linked-In][] profile.*
 
 
 [Maize Plant Discipleship]: http://maizeplantdiscipleship.wordpress.com
