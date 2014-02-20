@@ -1,6 +1,6 @@
 ## Dr John B Clements
 
-## Missiology and Discipleship ## 
+## Missiology and Discipleship
 
 ### Maize Plant Discipleship ###
 
