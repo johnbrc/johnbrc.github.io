@@ -1,18 +1,18 @@
-# Dr John B Clements : Educator : Missiology and Discipleship
+# MPD Digital Distribution Hub
 
 ## Maize Plant Discipleship
 
-Maize Plant Discipleship is (MPD) a resource designed to be appropriate to leaders and learners in Burkina Faso and other African -- and post-colonial contexts. MPD was developed in parallel with doctoral research, undertaken in partnership with Fuller Theological Seminary, which lead to my dissertation:	*Facilitating a Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*
+Maize Plant Discipleship (MPD) is a learning resource designed to be appropriate to leaders and learners in Burkina Faso and other African — and post-colonial contexts. MPD was developed in parallel with doctoral research, undertaken in partnership with Fuller Theological Seminary, which lead to my dissertation:	*Facilitating a Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*
 
 - [GitHub][@johnbrc] provides a distribution hub for MPD digital publication files.
 
 - Find out more on the project website: [Maize Plant Discipleship][]
 
-### Vocational Philosophy
+### Dr JB Clements, Educator (Missiology and Discipleship)
 
 My intercultural work forms part of a broad vocation that has encompassed structural engineering, desktop publishing, printing, website development and property management. Together these involvements have facilitated the development of key business and leadership skills and experience, the defining of a vocational philosophy of Christian work and the financial underwriting of itinerant missionary engagement with Africa.
 
-*For further information, visit my [Website][] or [Linked-In][] profile.*
+For further information, visit my [Website][] or [Linked-In][] profile.
 
 
 [Maize Plant Discipleship]: http://maizeplantdiscipleship.wordpress.com
