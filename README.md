@@ -1,4 +1,4 @@
-### Dr John B Clements: Educator : Missiology and Discipleship
+### Dr John B Clements : Educator : Missiology and Discipleship
 
 ## Maize Plant Discipleship ###
 
