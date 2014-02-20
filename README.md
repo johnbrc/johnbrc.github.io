@@ -1,8 +1,6 @@
-## Dr John B Clements
+### Dr John B Clements ~ Missiology and Discipleship
 
-## Missiology and Discipleship
-
-### Maize Plant Discipleship ###
+## Maize Plant Discipleship ###
 
 Maize Plant Discipleship is (MPD) a resource designed to be appropriate to leaders and learners in Burkina Faso and other African -- and post-colonial contexts. 
 
@@ -14,7 +12,7 @@ Maize Plant Discipleship is (MPD) a resource designed to be appropriate to leade
 
 MPD was developed in parallel with doctoral research, undertaken in partnership with Fuller Theological Seminary, which lead to my dissertation:	*Facilitating a Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*
 
-### Vocational Philosophy ###
+## Vocational Philosophy ###
 
 My intercultural work forms part of a broad vocation that has encompassed structural engineering, desktop publishing, printing, website development and property management. Together these involvements have facilitated the development of key business and leadership skills and experience, the defining of a vocational philosophy of Christian work and the financial underwriting of itinerant missionary engagement with Africa.
 
