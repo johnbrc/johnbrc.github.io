@@ -8,7 +8,7 @@ Missiological Educator
 
 Maize Plant Discipleship is (MPD) a resource designed to be appropriate to leaders and learners in Burkina Faso and other African -- and post-colonial contexts. 
 
-[GitHub][@johnbrc] is the distribution hub for MPD digital publication files.
+- [GitHub][@johnbrc] is the distribution hub for MPD digital publication files.
 
 - [Maize Plant Discipleship][] (hereafter, MPD)
 
