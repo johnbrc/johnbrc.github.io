@@ -1,12 +1,14 @@
 # Dr John B Clements #
 
-[Website] — [Linked-In] 
+Missiological Educator 
 
-My vocation is that of educator, incorporating writing and peripatetic teaching. 
+[Website] — [Linked-In] 
 
 ### Maize Plant Discipleship ###
 
-I am currently engaged in the development of the following resource, which is designed to be appropriate to leaders and learners in Burkina Faso and other African and post-colonial contexts. I'm [here][@johnbrc] on GitHub because it's the best place to facilitate distribution of the digital publication files for this project.
+Maize Plant Discipleship is (MPD) a resource designed to be appropriate to leaders and learners in Burkina Faso and other African -- and post-colonial contexts. 
+
+[GitHub][@johnbrc] is the distribution hub for MPD digital publication files.
 
 - [Maize Plant Discipleship][] (hereafter, MPD)
 
