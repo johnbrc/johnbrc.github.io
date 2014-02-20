@@ -1,8 +1,6 @@
 # Dr John B Clements #
 
-Missiological Educator 
-
-[Website] — [Linked-In] 
+## Missiological Educator 
 
 ### Maize Plant Discipleship ###
 
