@@ -4,7 +4,7 @@
 
 Maize Plant Discipleship (MPD) is a learning resource designed to be appropriate to leaders and learners in Burkina Faso and other African and post-colonial contexts. MPD was developed in parallel with doctoral research, undertaken in partnership with Fuller Theological Seminary.
 
-- GitHub provides a [digital distribution hub for MPD files][@mpd].
+- GitHub provides a [**digital distribution hub for MPD files**][@mpd].
 
 - See the [MPD project website][Maize Plant Discipleship] for further information.
 
