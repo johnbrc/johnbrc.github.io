@@ -16,7 +16,7 @@ My intercultural work forms part of a broad vocation that has encompassed struct
 
 
 [Maize Plant Discipleship]: http://maizeplantdiscipleship.wordpress.com
-[Website]: http://jbclements.wordpress.com/ target=_blank
+[Website]: http://jbclements.wordpress.com/
 [Linked-In]: http://uk.linkedin.com/in/jbclements/
 [@johnbrc]: http://johnbrc.github.io
 [@mpd]: http://johnbrc.github.io/MPD-Distribution/
