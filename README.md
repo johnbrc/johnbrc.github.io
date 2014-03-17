@@ -4,20 +4,20 @@ Over the past twenty-five years, my intercultural missionary work has formed par
 
 My experience has facilitated the development of a wide range of business and leadership skills, a holistic, vocational philosophy of Christian life, work and service and an itinerant, missionary engagement with Africa that has taken place without any institutional backing.
 
-I am currently engaged in developing a learning resource, named *Maize Plant Discipleship*, designed to be appropriate to leaders and learners in Burkina Faso and other African contexts, formulated in response with doctoral research carried out with Fuller School of Intercultural Studies.
-
-- For further information, visit my [Website][] or [Linked-In][] profile.
-
 ## Maize Plant Discipleship
 
-Maize Plant Discipleship (MPD) is a learning resource designed to be appropriate to leaders and learners in Burkina Faso and other African and post-colonial contexts. MPD was developed in parallel with doctoral research, undertaken in partnership with Fuller Theological Seminary.
+I am currently engaged in developing a learning resource, named *Maize Plant Discipleship*, designed to be appropriate to leaders and learners in Burkina Faso and other African contexts, formulated in response with doctoral research carried out with Fuller School of Intercultural Studies.
 
-- GitHub provides the [digital distribution hub for MPD files][].
-- See [MPD project website][] for further information.
+- GitHub is the [digital distribution hub for MPD files][].
+
+##  Further information
+
+- Visit [Maize Plant Discipleship website][].
+- Visit my [vocational website][] or [Linked-In][] profile.
 
 
-[MPD project website]: http://maizeplantdiscipleship.wordpress.com
-[Website]: http://jbclements.wordpress.com/
+[Maize Plant Discipleship website]: http://maizeplantdiscipleship.wordpress.com
+[vocational website]: http://jbclements.wordpress.com/
 [Linked-In]: http://uk.linkedin.com/in/jbclements/
 [@johnbrc]: http://johnbrc.github.io
 [digital distribution hub for MPD files]: http://johnbrc.github.io/MPD-Distribution/
