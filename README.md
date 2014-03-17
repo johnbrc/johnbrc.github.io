@@ -1,6 +1,10 @@
 ## Dr JB Clements, Educator (Missiology and Discipleship)
 
-My intercultural work forms part of a broad vocation that has encompassed structural engineering, desktop publishing, printing, website development and property management. These involvements have facilitated the development of business and leadership skills, a vocational philosophy of Christian work and service and the financial underwriting of both my itinerant missionary engagement in Burkina Faso and my doctoral research .
+Over the past twenty-five years, my intercultural missionary work has formed part of a broad vocation encompassing structural engineering, desktop publishing, printing, website development, property management, teaching, training, mentoring, writing and publishing.
+
+My experience has facilitated the development of a wide range of business and leadership skills, a holistic, vocational philosophy of Christian life, work and service and an itinerant, missionary engagement with Africa that has taken place without any institutional backing.
+
+I am currently engaged in developing a learning resource, named *Maize Plant Discipleship*, designed to be appropriate to leaders and learners in Burkina Faso and other African contexts, formulated in response with doctoral research carried out with Fuller School of Intercultural Studies.
 
 - For further information, visit my [Website][] or [Linked-In][] profile.
 
