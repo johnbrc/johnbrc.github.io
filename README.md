@@ -8,7 +8,7 @@ My experience has facilitated the development of a wide range of business and le
 
 I am currently engaged in developing a learning resource, named *Maize Plant Discipleship*, designed to be appropriate to leaders and learners in Burkina Faso and other African contexts, formulated in response with doctoral research carried out with Fuller School of Intercultural Studies.
 
-- GitHub is the [digital distribution hub for Maize Plant Discipleship files][].
+- GitHub provides a [digital distribution hub for Maize Plant Discipleship files][hub].
 
 ##  Further information
 
@@ -20,4 +20,4 @@ I am currently engaged in developing a learning resource, named *Maize Plant Dis
 [vocational website]: http://jbclements.wordpress.com/
 [Linked-In]: http://uk.linkedin.com/in/jbclements/
 [@johnbrc]: http://johnbrc.github.io
-[digital distribution hub for MPD files]: http://johnbrc.github.io/MPD-Distribution/
+[hub]: http://johnbrc.github.io/MPD-Distribution/
