@@ -6,7 +6,7 @@ My experience has facilitated the development of a wide range of business and le
 
 ## Maize Plant Discipleship
 
-I am currently engaged in developing a learning resource, named *Maize Plant Discipleship*, designed to be appropriate to leaders and learners in Burkina Faso and other African contexts, formulated in response with doctoral research carried out with Fuller School of Intercultural Studies.
+I am currently engaged in developing and publishing a learning resource, named *Maize Plant Discipleship*, designed to be appropriate to leaders and learners in Burkina Faso and other African contexts, formulated in response with doctoral research carried out with Fuller School of Intercultural Studies.
 
 - GitHub provides a [digital distribution hub for Maize Plant Discipleship files][hub].
 
