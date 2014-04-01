@@ -1,6 +1,6 @@
 ## Dr JB Clements, Educator (Missiology and Discipleship)
 
-Over the past twenty-five years, my intercultural missionary work has formed part of a broad vocation encompassing structural engineering, desktop publishing, printing, website development, property management, teaching, training, mentoring, writing and publishing.
+My intercultural missionary work forms part of a broad vocation that, over the past quarter-century, has encompassed structural engineering, desktop publishing, printing, website development, property management, teaching, training, mentoring, writing and publishing.
 
 My experience has facilitated the development of a wide range of business and leadership skills, a holistic, vocational philosophy of Christian life, work and service and an itinerant, missionary engagement with Africa that has taken place without any institutional backing.
 
