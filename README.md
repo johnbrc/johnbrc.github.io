@@ -10,7 +10,7 @@ I am currently engaged in developing and publishing a learning resource, named *
 
 - GitHub provides a [digital distribution hub for Maize Plant Discipleship files][hub].
 
-##  Further information
+##  Find Out More
 
 - Visit [Maize Plant Discipleship website][].
 - Visit my [vocational website][] or [Linked-In][] profile.
