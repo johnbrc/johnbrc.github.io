@@ -1,4 +1,4 @@
-## Dr JB Clements, Educator (Missiology and Discipleship)
+## Dr JB Clements, Missiological Educator
 
 My intercultural missionary work forms part of a broad vocation that, over the past quarter-century, has encompassed structural engineering, desktop publishing, printing, website development, property management, teaching, training, mentoring, writing and publishing.
 
