@@ -16,8 +16,8 @@ I am currently engaged in developing and publishing a learning resource, named *
 - Visit my [vocational website][] or [Linked-In][] profile.
 
 
-[Maize Plant Discipleship website]: http://maizeplantdiscipleship.wordpress.com
-[vocational website]: http://jbclements.wordpress.com/
+[Maize Plant Discipleship website]: http://maizeplantdiscipleship.org
+[vocational website]: http://about.me/jbclements
 [Linked-In]: http://uk.linkedin.com/in/jbclements/
 [@johnbrc]: http://johnbrc.github.io
 [hub]: http://johnbrc.github.io/MPD-Distribution/
